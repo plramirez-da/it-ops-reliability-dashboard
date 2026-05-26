@@ -1,0 +1,11 @@
+Proyecto_ID,Nombre_Proyecto,Cliente,SLA_Bug_Minutos,SLA_Uptime_Goal
+PRJ-001,Alpha Core,Global Bank,240,99.5
+PRJ-002,Beta Mobile,Telco Corp,180,99.9
+PRJ-003,Gamma Cloud,HealthInc,120,99.9
+PRJ-004,Delta Security,LogiTrans,60,99.99
+PRJ-005,Epsilon Data,EduTech,180,99.5
+PRJ-006,Zeta Web,RetailGiant,240,99.0
+PRJ-007,Eta DevOps,FinPrime,120,99.9
+PRJ-008,Theta Portal,InsurCo,180,99.5
+PRJ-009,Iota Integration,EnergySys,60,99.95
+PRJ-010,Kappa CRM,SmartGov,120,99.0
